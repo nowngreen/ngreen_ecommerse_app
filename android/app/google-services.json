@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "165095492298",
+    "project_id": "ngreenwebapp",
+    "storage_bucket": "ngreenwebapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:165095492298:android:30ec4c524295ed30640233",
+        "android_client_info": {
+          "package_name": "com.ngreen.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "165095492298-efvvjogbe7i3j1lpa2ce5k29046mh01c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ngreen.app",
+            "certificate_hash": "f7ee5022a62c2ae3c83df5a73b39e2926e179cb5"
+          }
+        },
+        {
+          "client_id": "165095492298-gdjokrnjrjntmja0q74nqjqqkc3bqj09.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_Mx6TOuZ0lMEyvK2fXxtj4CFQTdFmg1A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "165095492298-gdjokrnjrjntmja0q74nqjqqkc3bqj09.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "165095492298-9lvthbieh5hvmlctbbb111rss2hdv8i5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.inilabs.shopking"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
